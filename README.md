@@ -9,6 +9,7 @@ La siguiente aplicación es creada con fines de aprendizaje, con el objetivo de 
 # Diseño
 
 ![](https://cdn-icons-png.flaticon.com/512/2418/2418779.png)
+
 El diseño de la aplicación gira al rededor de los colores rojos, que van desde el color rojo sólido hasta shade de 200.
 Al ejecutar la aplicación lo primero que se puede observar es la pantalla de Login, donde se escribirá el nombre del usuario y una contraseña con caracteres escondidos para mayor seguridad, estos espacios incluyen íconos referenciados, así como una imagen en movimiento de formato gif en la parte superior para darle vista a la aplicación y una buena primera impresión.
 El botón es de la librería de cupertino, utilizada comunmente en sistemas IOS, pero con límites establecidos para mayor visualización.

@@ -1,4 +1,4 @@
-#Consulta API
+# Consulta API
 
 La siguiente aplicación es creada con fines de aprendizaje, con el objetivo de lograr recibir información de una API de la fórmula 1 con datos dinámicos, en este caso la API es de paga, aunque se eligió una versión gratuita pero con un límite de 100 consultas por día, las cuales son suficientes para un trabajo de categoría estudiantil.
 
@@ -15,7 +15,7 @@ El botón es de la librería de cupertino, utilizada comunmente en sistemas IOS,
 
 La siguiente página nos muestra las imágenes pulsables de diversos pilotos de la fórmula 1, con letras con estilos de tamaño y negritas, en esta página se hizo uso de Column en el body y row internos en contenedores, para así poder hacer uso de la función Space Evenly, para organizar las imagenes de los pilotos en dos columnas.
 
-#Funcionamiento
+# Funcionamiento
 
 La aplicación extrae informacion de la siguiente [API](https://api-sports.io/documentation/formula-1/v1).
 
